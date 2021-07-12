@@ -75,7 +75,7 @@ input[type="radio"].visually-hidden {
 
 .page-header {
   margin: 0 auto;
-  padding: 0 135px;
+  padding: 45px 135px;
   max-width: 1440px;
 }
 
@@ -100,7 +100,7 @@ input[type="radio"].visually-hidden {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  margin: 45px 0;
+  margin: 0;
   padding: 0;
   list-style: none;
 }
